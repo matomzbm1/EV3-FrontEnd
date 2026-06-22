@@ -388,7 +388,7 @@ function App() {
         React.createElement(
             'footer',
             { className: 'footer' },
-            React.createElement('p', null, '© 2024 TechStore - Tienda de Tecnología. Todos los derechos reservados.')
+            React.createElement('p', null, '© 2026 TechStore - Tienda de Tecnología. Todos los derechos reservados.')
         )
     );
 }
